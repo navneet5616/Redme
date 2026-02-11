@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Java Developer </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=40&pause=1000&color=0EC9F7&width=435&lines=Hi!+My+self+SHIVAM+I+am+Java+Developer." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=40&pause=1000&color=0EC9F7&width=435&lines=Hi!+My+self+Navneet Kumar+I+am+Java+Developer." alt="Typing SVG" /></a>
 </p>
 
 
@@ -18,9 +18,9 @@
 
 - 🔭 I’m currently pursuing Full Stack Java Development
 
-- 🌱 I’m currently Working *[IWINGS](https://www.iwings.co.in/)* 
+- 🌱 I’m currently Internship at Ducat IT Training School at Noida  *[https://www.ducatindia.com/)* 
 
-- 📄 Know about my experiences [Resume](https://github.com/shivamji642002/shivamji642002)
+- 📄 Know about my experiences [Resume](https://github.com/navneet5616)
 
 - 💞️ I’m looking to collaborate on **Projects**
 
