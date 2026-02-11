@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SHIVAM</h1>
+<h1 align="center">Hi 👋, I'm NAVNEET KUMAR</h1>
 <h3 align="center">A passionate Full Stack Java Developer </h3>
 
 <p align="center">
@@ -26,22 +26,22 @@
 
 - 💬 Ask me about *HTML, CSS, JavaScript, React, Java, Spring Boot, Mysql*
 
-- 📫 How to reach me *shivamji2200@gmail.com*
+- 📫 How to reach me *navneetsrivaatava9992gmail.com@gmail.com*
 
 
 
 <hr />
 
 ### Resume 
-# SHIVAM
+# NAVNEET KUMAR
 
-**DOB:** 05/02/2004  
+**DOB:** 11/08/2002  
 **Address:** Sasaram, Bihar  
 
 **Full Stack Java Developer**  
-Email: [shivamji2200@gmail.com](mailto:shivamji2200@gmail.com)  
-Phone: +91-7562963096 or 9955478113  
-[LinkedIn](https://www.linkedin.com/in/shivamji642002/) | [GitHub](https://github.com/shivamji642002)
+Email: [navneetsrivastava999@gmail.com]()  
+Phone: +91-7782016035 or 9771182162 
+[LinkedIn](https://www.linkedin.com/in/navneet-kumar-83b091274/) | [GitHub](https://github.com/navneet5616)
 
 ---
 
@@ -56,7 +56,7 @@ Motivated Full Stack Java Developer with expertise in Java 8+, Spring Boot, and 
 ### **Professional Experience**
 
 **Software Developer**  
-*iWings* | [Oct, 2021] – Present  
+** | [Oct, 2026] – Present  
 
 - **Frontend Development:**
   - Developed and maintained responsive web applications using **HTML**, **CSS**, and **JavaScript**, ensuring cross-browser compatibility and a seamless user experience.  
@@ -108,32 +108,32 @@ Motivated Full Stack Java Developer with expertise in Java 8+, Spring Boot, and 
 ## Education
 
 **Bachelor of Technology in Computer Science Engineering**  
-Rao Birender Singh State Institute of Engineering and Technology, Zainbad, Haryana  
-2021 - 2024 | Percentage: 69.7%
+Swami vivekanand Subharti University ,Meerut UttarPradesh
+2022 - 2026 | Percentage: 69.7%
 
-**Diploma in Computer Science Engineering**  
-CDL Govt Polytechnic College, Nathusari Chopta, Haryana  
-2018 - 2021 | Percentage: 79.2%
+**Intermediate **   
+SherShah College Sasaram Bihar (Rohtas)
+2017 - 2019 | Percentage: 67.4%
 
 **High School**  
-Chitauli High School, Sasaram  
-Bihar Board | 2018 | 67.2%
+Children's Garden School Bhabhua Kaimur (Bihar) 
+Central Board Of Secondary Education (CBSE) | 2017 | 87.4%
 
 ---
 
 ## Contact Information
 
-- **Email:** [shivamji2200@gmail.com](mailto:shivamji2200@gmail.com)
-- **Phone:** +91-7562963096
-- [LinkedIn](https://www.linkedin.com/in/shivamji642002/)
-- [GitHub](https://github.com/shivamji642002)
+- **Email:** [navneetsrivastava999@gmail.com]
+- **Phone:** +91-7782016035
+- [LinkedIn](https://www.linkedin.com/in/navneet-kumar-83b091274/)
+- [GitHub](https://github.com/navneet5616)
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/shivamji642002/shivamji642002">
+<a href="https://github.com/navneet5616">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="www.linkedin.com/in/shivam-ji-21b768219" target="_blank">
+<a href="https://www.linkedin.com/in/navneet-kumar-83b091274/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:shivamji642002@gmail.com" target="_blank">
