@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Java Developer </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=40&pause=1000&color=0EC9F7&width=435&lines=Hi!+My+self+Navneet Kumar+I+am+Java+Developer." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=40&pause=1000&color=0EC9F7&width=435&lines=Hi!+My+self+Navneet+I+am+Java+Developer." alt="Typing SVG" /></a>
 </p>
 
 
